@@ -8,7 +8,7 @@
 
 body {
   align-items: center;
-  background: linear-gradient(45deg, #ffbacd 0%,#c10057da 100%);
+  background: linear-gradient(45deg, #ffcbeb7a 0%,#c10071da 100%);
   display: flex;
   justify-content: center;
   flex-direction: column;
@@ -29,8 +29,8 @@ h2 {
 }
 
 .teclado {
-  background: linear-gradient(to bottom, #eeeeee 0%,#cccccc 100%);
-  box-shadow: 6px 8px 0 6px #893535, 10px 10px 10px #000;
+  background: linear-gradient(to bottom, #ffc3d7 0%,#ffffff 100%);
+  box-shadow: 6px 8px 0 6px #6b2842, 10px 10px 10px rgb(0, 0, 0)b1b;
   border-radius: 30px;
   display: grid;
   gap: 10px;
